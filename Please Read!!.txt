@@ -1,0 +1,24 @@
+PLEASE READ BEFORE APPLYING THE BOOT ANIMATIONS!!
+
+
+Some boots may cause bootloops on some devices with RAM less than 3GB
+-Radiate
+-Google Evolved          are the known ones 
+
+
+I've checked all animations, and all of them works fine for me on my 3T. It may vary based
+on your device.
+
+
+SO APPLY AT YOUR ON RISK. TAKE A BACKUP BEFORE HAND. COMPLAINING IN REVIEWS WON'T HELP YOU
+
+INSTRUCTIONS :
+
+1) Install Substratum theme engine
+2) Install this theme
+3) Open substratum and grant it root access(if needed) and other permissions
+4) Tap on the Boot for Subs card
+5) Select the boot animations you like from the respective tab
+6) A preview will be loaded and apply it
+
+Previews can be found in the companion app(if they do not load up for you)
