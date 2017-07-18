@@ -4,7 +4,7 @@ PLEASE READ BEFORE APPLYING THE BOOT ANIMATIONS!!
 Some boots may cause bootloops on some devices with RAM less than 3GB
 -Radiate
 -Google Evolved          are the known ones 
-
+-Superman vs Batman
 
 I've checked all animations, and all of them works fine for me on my 3T. It may vary based
 on your device.
